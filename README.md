@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KE8SOJ
-- 👀 I’m interested in `["Linux", "networks", "radio", "satellites", "code", "God"]`.
-- 🌱 I’m currently learning everything.
-- 💞️ I’m looking to collaborate on the second coming.
-- 📫 How to reach me ... do something interesting.
+- 👀 I’m interested in `["Linux", "networks", "radio", "satellites", "synthesizers", "religion"]`.
+- 🌱 I’m currently learning Arduino.
+- 💞️ I’m looking to collaborate on AREDN.
+- 📫 How to reach me `["email", "signal", "linkedin"\`.
 
 <!---
 KE8SOJ/KE8SOJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
